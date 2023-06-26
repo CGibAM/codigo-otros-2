@@ -24,10 +24,10 @@ body {
 .elemento-lista {
   color: #4b1248;
   font-family: Verdana;
-  margin: 10px 0;
+  margin: 10px 0px;
   border: 5px solid #4b1248;
   border-radius: 5px;
-  padding: 0 5px;
+  padding: 0px 5px;
   width: 400px;
   margin: 20px
 }
@@ -37,6 +37,6 @@ body {
   background: none;
   color: #4b1248;
   font-family: Verdana;
-  margin: 10px 0;
+  margin: 10px 0px;
   font-size: 16px;
 }
